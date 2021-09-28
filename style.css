@@ -40,15 +40,10 @@ a{
     margin-right: 10px;
 }
 
-h2 {
-    text-align: center;
-    box-sizing: border-box;
-}
-
-.container{
+.wrapper{
     width:100%;
     margin-top: 10px;
-    background-color: white;
+    background-color: grey;
 
 }
 
